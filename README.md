@@ -11,7 +11,7 @@ A Repo dedicated to securing Kubernetes.
 source: https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
 
 - Threats and their mitigations were compiled in this xlsx sheet :
-https://github.com/inframate/SecureKube/blob/master/Kubernetes%20Threat%20matrix.xlsx
+https://github.com/inframate/SecureKube/blob/master/Kubernetes%20Threat%20matrix.xlsx?raw=true
 
 
 
