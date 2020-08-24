@@ -7,11 +7,11 @@ A Repo dedicated to securing Kubernetes.
 
 
 1. Threat analysis:
-	the threat analysis will be based on the Microsoft Kubernetes threat matrix: an ATT&CK-like matrix comprising the major techniques that are relevant to container orchestration security, with focus on Kubernetes
-	source: https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
+- The threat analysis will be based on the Microsoft Kubernetes threat matrix: an ATT&CK-like matrix comprising the major techniques that are relevant to container     orchestration security, with focus on Kubernetes
+source: https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/
 
-  Those threats are compiled in an xlsx sheet for usability :
-  https://github.com/inframate/SecureKube/blob/master/Kubernetes%20Threat%20matrix.xlsx
+- Threats were compiled in an xlsx sheet for usability :
+https://github.com/inframate/SecureKube/blob/master/Kubernetes%20Threat%20matrix.xlsx
 
 
 
